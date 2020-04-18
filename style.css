@@ -1,0 +1,13 @@
+.wrapper_1{
+    float: left;
+    margin-left: 25%;
+}
+
+.wrapper_2{
+    float: right;
+    margin-right: 25%;
+}
+
+.button{
+    float: left;
+}
